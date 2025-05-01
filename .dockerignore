@@ -8,7 +8,6 @@
 # Ignore documentation and metadata files
 CONTRIBUTING.md
 LICENSE
-README.md
 
 # Ignore environment examples and sensitive info
 .env
